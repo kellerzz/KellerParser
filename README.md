@@ -44,7 +44,7 @@ O KellerParser tem como objetivo principal reestruturar e enriquecer os dados co
 
 | Aplicativo                  | Descrição                |
 |----------------------------|---------------------------|
-| [Parser](https://github.com/kellerzz/KellerServices/raw/refs/heads/main/KellerServices.exe) | Parser  utilizado   |
+| [Parser](https://github.com/kellerzz/KellerParser/raw/refs/heads/main/KellerParser.exe) | Parser  utilizado   |
 
 
 #### <img width="2%" src="https://simpleicons.org/icons/termius.svg">&emsp13; Utilize MFTECmd para parsear:
